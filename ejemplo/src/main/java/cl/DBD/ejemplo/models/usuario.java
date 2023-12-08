@@ -1,9 +1,9 @@
-package cl.DBD.ejemplo.repositories;
-import java.util.*
+package cl.DBD.ejemplo.models;
+import java.util.*;
 
 
-public class  usuario{
-    private int id ;
+public class  usuario {
+    private int id;
     private String nombre;
     private String contraseña;
     private String correo;
