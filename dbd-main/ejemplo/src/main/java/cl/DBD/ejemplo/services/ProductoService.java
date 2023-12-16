@@ -4,7 +4,6 @@ package cl.DBD.ejemplo.services;
 
 
 import cl.DBD.ejemplo.models.Producto;
-import cl.DBD.ejemplo.repositories.ProductoRepository;
 
 
 import org.springframework.web.bind.annotation.CrossOrigin;

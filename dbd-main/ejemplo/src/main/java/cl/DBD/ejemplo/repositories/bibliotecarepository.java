@@ -12,5 +12,5 @@ public interface bibliotecarepository {
     public List<biblioteca> mostrarbilbioteca_usuario(int id_usuario);
     public List<biblioteca>mostarjuegos_enbiblioteca(int id_usuario);
 
-    public String eliminar(int id_usuario,int id_juego);
+    public String eliminarbiblioteca(int id_usuario, int id_juego);
 }
